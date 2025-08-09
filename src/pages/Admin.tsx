@@ -8,7 +8,7 @@ import toast from "react-hot-toast";
 import { MdDelete } from "react-icons/md";
 import type { Disque, Song } from "../types/song.ts";
 
-const server = "http://13.235.70.183:7000";
+const server = "https://admin-service-soundwave.onrender.com";
 
 // Custom type guard for Axios errors
 interface AppAxiosError {

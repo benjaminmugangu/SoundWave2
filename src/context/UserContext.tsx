@@ -9,7 +9,7 @@ import type {
   UserProviderProps,
 } from "../types/user.ts";
 
-const server = "http://1.2.3.4:8000";
+const server = "https://user-service-soundwave.onrender.com";
 
 // Custom type guard for Axios errors
 interface AppAxiosError {

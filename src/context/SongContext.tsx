@@ -10,7 +10,7 @@ import type {
   SongProviderProps,
 } from "../types/song.ts";
 
-const server = "http://1.2.3.4:8000";
+const server = "https://song-service-soundwave.onrender.com";
 
 import { SongContext } from "./SongContextDefinition.ts";
 
